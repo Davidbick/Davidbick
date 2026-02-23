@@ -1,23 +1,21 @@
-## Hi, I'm David 👋
+## Hi, I'm David <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE2MXV0anJ4eXR2bG9wbDd1N2lmZWUxanNwYnBobDJ0enNzYWlvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wJq0whDX1ZyjW3G5o2/giphy.gif" width="25">
 
-<table>
-<tr>
-<td width="60%">
-I'm a Computer Engineering student at the University of Florida interested in embedded systems, smart environments, and IoT innovation.
+<img src="how-to-train-your-dragon-dragon.gif" align="right" width="300">
 
-I like designing things that sit between software, electronics, and real-world impact.
+<p>I'm a Computer Engineering student at the University of Florida interested in embedded systems, smart environments, and IoT innovation. </p>
 
-Most of my technical work, documentation, and projects live here:
+<p>I like designing things that sit between software, electronics, and real-world impact.</p>
 
-[Portfolio Repository](https://github.com/Davidbick/Portfolio)
 
-Outside of engineering, I care about leadership, community building, and turning ideas into reality.
+<b>Full projects & documentation:</b>  
+👉 <a href="https://github.com/Davidbick/Portfolio">Explore my portfolio</a>
 
-Follow my linkedin!!
-</td>
+Outside of engineering, I care about leadership, community building, and turning my ideas into reality!
+<br>
 
-<td width="40%">
-<img src="how-to-train-your-dragon-dragon.gif" width="350">
-</td>
-</tr>
-</table>
+
+Connect with me on linkedin!!
+
+<a href="https://www.linkedin.com/in/david-bickram">
+  <img src="Linkedin.jpg" width="100">
+</a>
