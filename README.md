@@ -12,8 +12,7 @@ Outside of engineering, I care about leadership, community building, and turning
 
 Follow my linkedin!!
 
-![description](https://tenor.com/search/dragon-toothless-gifs)
-
+![demo](how-to-train-your-dragon-dragon.gif)
 <!--
 **Davidbick/Davidbick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
