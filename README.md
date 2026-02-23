@@ -1,6 +1,6 @@
 ## Hi, I'm David <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE2MXV0anJ4eXR2bG9wbDd1N2lmZWUxanNwYnBobDJ0enNzYWlvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wJq0whDX1ZyjW3G5o2/giphy.gif" width="25">
 
-<img src="how-to-train-your-dragon-dragon.gif" align="right" width="300">
+<img src="how-to-train-your-dragon-dragon.gif" align="right" width="290">
 
 <p>I'm a Computer Engineering student at the University of Florida interested in embedded systems, smart environments, and IoT innovation. </p>
 
